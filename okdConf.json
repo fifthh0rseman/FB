@@ -1,0 +1,14 @@
+{
+  "edges": [
+    [
+      0,
+      1
+    ]
+  ],
+  "nodes": [
+    {
+      "payload": "repo.corernd.ru/ocp4",
+      "version": "okd-4.8"
+    }
+  ]
+}

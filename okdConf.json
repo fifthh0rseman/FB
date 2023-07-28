@@ -8,7 +8,7 @@
   "nodes": [
     {
       "payload": "fedora38.corernd.ru:8443/ocp4/openshift4@sha256:f785f240349f10ba03deed964c2aeb9e8daaaac61e99464557131cf385d92bec",
-      "version": "v4.8.0"
+      "version": "4.8.0"
     }
   ]
 }

@@ -7,8 +7,8 @@
   ],
   "nodes": [
     {
-      "payload": "quay.io/openshift-release-dev/ocp-release@sha256:1e9a938f89d2db428ddfafc055b534aafa1ef469d309750d0e04a5922151a6eb",
-      "version": "4.12.27-ppc64le"
+      "payload": "quay.io/openshift-release-dev/ocp-release@sha256:af19e94813478382e36ae1fa2ae7bbbff1f903dded6180f4eb0624afe6fc6cd4",
+      "version": "4.13.6"
     },
     {
       "payload": "quay.io/openshift-release-dev/ocp-release@sha256:d56d85d0f773db3046bad3858a89c2deaf53c14703d58e3e9966dbda1331856b",

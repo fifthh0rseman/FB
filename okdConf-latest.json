@@ -7,8 +7,8 @@
   ],
   "nodes": [
     {
-      "payload": "fedora38.corernd.ru:8443/ocp4/openshift4@sha256:f785f240349f10ba03deed964c2aeb9e8daaaac61e99464557131cf385d92bec",
-      "version": "4.8.2-custom"
+      "payload": "quay.io/openshift-release-dev/ocp-release@sha256:e15e52f22247b833d1db59b1507fa67d920e39b75297bc3a74f3f15e560d6d02",
+      "version": "4.12.27"
     },
     {
       "payload": "quay.io/openshift-release-dev/ocp-release@sha256:d56d85d0f773db3046bad3858a89c2deaf53c14703d58e3e9966dbda1331856b",
